@@ -7,10 +7,8 @@ Objetivo: Objetivo: levantar um perfil de clientes para cada uma das marcas.
 Com as tecnicas aplicadas encontrou-se que a quantidade ideal de marcas seria 3.
 Isso ficou claro no Método Elbow, Dendograma e na Análise de Silhueta.
 
-Diante disso, a marca X atenderia 61.5% dos clientes, a marca Y 30.6% e a marca Z 7.8%.
+Diante disso, a marca X atenderia 61.5% e seus produtos mais consumidos seriam 1, 2 e 6
 
-Os produtos mais consumidos da marca X seriam: 1, 2 e 6
+30.6%  dos clientes ficariam com a marca Y e seus produtos mais consumidos seriam 2, 7 e 10
 
-Os produtos mais consumidos da marca Y seriam: 2, 7 e 10
-
-Os produtos mais consumidos da marca Z seriam: 2, 8 e 9
+E a marca Z ficaria com os 7.8% restantes dos clientes e  os produtos seriam: 2, 8 e 9
