@@ -10,5 +10,7 @@ Isso ficou claro no Método Elbow, Dendograma e na Análise de Silhueta.
 Diante disso, a marca X atenderia 61.5% dos clientes, a marca Y 30.6% e a marca Z 7.8%.
 
 Os produtos mais consumidos da marca X seriam: 1, 2 e 6
+
 Os produtos mais consumidos da marca Y seriam: 2, 7 e 10
+
 Os produtos mais consumidos da marca Z seriam: 2, 8 e 9
