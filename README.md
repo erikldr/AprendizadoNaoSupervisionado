@@ -14,3 +14,7 @@ Diante disso, a marca X atenderia 61.5% e seus produtos mais consumidos seriam 1
 30.6%  dos clientes ficariam com a marca Y e seus produtos mais consumidos seriam 2, 7 e 10
 
 E a marca Z ficaria com os 7.8% restantes dos clientes e  os produtos seriam: 2, 8 e 9
+
+> Na época em que que esse algoritmo foi escrito, não me atentei a presença de anomalias no conjunto de dados.
+> 
+> No futuro pretendo refaze-lo utilizando tecnicas para tratar e esse problema e encontrar assim um resultado mais interessante.
